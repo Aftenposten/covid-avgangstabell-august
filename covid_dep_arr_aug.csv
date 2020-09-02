@@ -1,0 +1,53 @@
+Avreisested,Land,dep_eng,dep_lat,dep_lon,Mål,dest_eng,dest_lat,dest_lon,Reisemåte,Dato,isodate,Annet,Selskap,Fra/Til,Avreise,Ankomst
+Hirtshals,Danmark,"Hirtshals, Denmark",57.587963,9.963841,Kristiansand,"Kristiansand, Norway",58.137256,7.95224,Skip,2. august,2020-08-02,Superspeed 1,ColorLine,Hirtshals – Kristiansand,20:45,23:59
+Doha,Qatar,"Doha, Qatar",25.248856,51.560016,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,3. august,2020-08-03,QR175,Qatar Airways,Doha - Oslo,07:30,13:10
+København,Danmark,"Copenhagen, Denmark",55.704438,12.502119,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,3. august,2020-08-03,SK2872,SAS,København - Oslo,17:00,18:20
+Skopje,Makedonia,"Skopje, Macedonia",42.001220000000004,21.42878,Sandefjord,"Sandefjord, Norway",59.138893,10.224857,Fly,3. august,2020-08-03,W67705,Wizz Air,Skopje - Sandefjord,17:40,20:55
+Malaga,Spania,"Malaga, Spain",36.709737,-4.462013,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,3. august,2020-08-03,DY1803,Norwegian,Malaga - Oslo,19:55,23:55
+Gdansk,Polen,"Gdansk, Poland",54.372781,18.628385,København,"Copenhagen, Denmark",55.704438,12.502119,Fly,4. august,2020-08-04,SK0760,SAS,Gdansk - København,14:00,15:00
+København,Danmark,"Copenhagen, Denmark",55.704438,12.502119,Bergen,"Bergen, Norway",60.354965,5.302935,Fly,4. august,2020-08-04,SK 2872,SAS,København - Bergen,17:00,18:20
+Amsterdam,Nederland,"Amsterdam, Netherlands",52.37243,4.89973,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,4. august,2020-08-04,KL1151,KLM,Amsterdam - Oslo,20:50,22:35
+Hirtshals,Danmark,"Hirtshals, Denmark",57.587963,9.963841,Kristiansand,"Kristiansand, Norway",58.137256,7.95224,Skip,6. august,2020-08-06,Superspeed 1,ColorLine,Hirtshals – Kristiansand,12:15,15:30
+Kristiansand,Norge,"Kristiansand, Norway",58.137256,7.95224,Bergen,"Bergen, Norway",60.354965,5.302935,Fly,6. august,2020-08-06,WF592,Widerøe,Kristiansand - Bergen,15:45,16:40
+Paris,Frankrike,"Paris, France",48.859116,2.331839,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,7. august,2020-08-07,AF1274,Air France,Paris - Oslo,20:55,23:15
+Arlanda,Sverige,"Arlanda, Sweden",59.638635,17.937246,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,8. august,2020-08-08,SK883,SAS,Arlanda - Oslo,11:30,12:30
+Wien,Østerrike,"Vienna, Austria",48.198674,16.348388,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,8. august,2020-08-08,W62873,Wizz Air,Wien - Oslo,12:00,14:25
+Oslo,Norge,"Oslo, Norway",59.914112,10.80102,Trondheim,"Trondheim, Norway",63.412235,10.411357,Fly,8. august,2020-08-08,SK350,SAS,Oslo - Trondheim,14:00,14:55
+Pristina,Kosovo,"Pristina, Kosovo",42.704347,21.230935,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,8. august,2020-08-08,DY1909,SAS,Pristina - Oslo,15.45,19:10
+Milano,Italia,"Milan, Italy",45.473702,9.170685,Sandefjord,"Sandefjord, Norway",59.138893,10.224857,Fly,8. august,2020-08-08,FR4557,Ryan Air,Milano - Sandefjord-Torp,17:10,19:37
+Amsterdam,Nederland,"Amsterdam, Netherlands",52.37243,4.89973,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,8. august,2020-08-08,KL1151,KLM,Amsterdam - Oslo,20:50,22:35
+Oslo lufthavn,Norge,"Oslo lufthavn, Norway",60.19312,11.096776,Lillehammer,"Lillehammer, Norway",61.122137,10.464437,Tog,8. august,2020-08-08,R10,Vy,Oslo Lufthavn - Lillehammer,21:59,23:38
+Barcelona,Spania,"Barcelona, Spain",41.400347,2.159592,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,9. august,2020-08-09,DY1739,Norwegian,Barcelona - Oslo,10:35,14:00
+Amsterdam,Nederland,"Amsterdam, Netherlands",52.37243,4.89973,Kristiansand,"Kristiansand, Norway",58.137256,7.95224,Fly,9. august,2020-08-09,KL1209,KLM,Amsterdam - Kristiansand,16:15,17:38
+Oslo,Norge,"Oslo, Norway",59.914112,10.80102,Trondheim,"Trondheim, Norway",63.412235,10.411357,Fly,11. august,2020-08-11,DY744,Norwegian,Oslo - Trondheim,11:10,12:05
+Frankfurt,Tyskland,"Frankfurt, Germany",50.041821,8.584764,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,11. august,2020-08-11,LH862,Lufthansa,Frankfurt - Oslo,13:05,15:00
+Nice,Frankrike,"Nice, France",43.713667,7.264625,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,11. august,2020-08-11,SK4700,SAS,Nice - Oslo,20:40,23:35
+Frankfurt,Tyskland,"Frankfurt, Germany",50.041821,8.584764,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,13. august,2020-08-13,LH864,Lufthansa,Frankfurt - Oslo,21:30,23:25
+Bergen,Norge,"Bergen, Norway",60.354965,5.302935,Rysjedalsvika,"Rysjedalsvika Ferjekai, Norway",61.114007,5.283474,Skip,14. august,2020-08-14,MS Tyrving,Norled,Bergen - Rysjedalsvika,16:30,
+Frankfurt,Tyskland,"Frankfurt, Germany",50.041821,8.584764,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,15. august,2020-08-15,SK4756,SAS,Frankfurt - Oslo,12:00,14:00
+København,Danmark,"Copenhagen, Denmark",55.704438,12.502119,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,15. august,2020-08-15,SK1456,SAS,København - Oslo,13:45,14:55
+Amsterdam,Nederland,"Amsterdam, Netherlands",52.37243,4.89973,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,16. august,2020-08-16,KL1143,KLM,Amsterdam - Oslo,09:20,11:05
+Malaga,Spania,"Malaga, Spain",36.709737,-4.462013,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,16. august,2020-08-16,DY1801,Norwegian,Malaga - Oslo,14:35,18.35
+København,Danmark,"Copenhagen, Denmark",55.704438,12.502119,Stavanger,"Stavanger, Norway",58.943598,5.714572,Fly,17. august,2020-08-17,SK1872,SAS,København - Stavanger,14:05,15:15
+Gdansk,Polen,"Gdansk, Poland",54.372781,18.628385,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,17. august,2020-08-17,DY1053,Norwegian,Gdansk - Oslo,15:14,16:45
+Gøteborg,Sverige,"Gothenburg, Sweden",57.735628,12.014286,Oslo,"Oslo, Norway",59.914112,10.80102,Buss,17. august,2020-08-17,B4Y,Vy,Gøteborg - Oslo,15:15,19:10
+Amsterdam,Nederland,"Amsterdam, Netherlands",52.37243,4.89973,Trondheim,"Trondheim, Norway",63.412235,10.411357,Fly,17. august,2020-08-17,KL1177,KLM,Amsterdam - Trondheim,20:45,22:50
+Bergen,Norge,"Bergen, Norway",60.354965,5.302935,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,18. august,2020-08-18,SK238,SAS,Bergen - Oslo,07:01,07:48
+Oslo,Norge,"Oslo, Norway",59.914112,10.80102,Bergen,"Bergen, Norway",60.354965,5.302935,Fly,18. august,2020-08-18,SK283,SAS,Oslo-Bergen,18:50,19:40
+Gdansk,Polen,"Gdansk, Poland",54.372781,18.628385,Bergen,"Bergen, Norway",60.354965,5.302935,Fly,19. august,2020-08-19,W61745,WizzAir,Gdansk - Bergen,06:15,07:43
+Hirtshals,Danmark,"Hirtshals, Denmark",57.587963,9.963841,Langesund,Langesund,59.0099265,9.7144386,Skip,19. august,2020-08-19,MS Stavangerfjord,Fjord Line,Hirtshals - Langesund,09:00,13:30
+Amsterdam,Nederland,"Amsterdam, Netherlands",52.37243,4.89973,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,19. august,2020-08-19,KL1143,KLM,Amsterdam - Oslo,09:20,11:05
+Antalya,Tyrkia,"Antalya, Turkey",36.890217,30.715592,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,19. august,2020-08-19,DY1261,Norwegian,Antalya - Oslo,13:05,16:25
+Frankfurt,Tyskland,"Frankfurt, Germany",50.041821,8.584764,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,19. august,2020-08-19,LH0862,Lufthansa,Frankfurt - Oslo,13:05,15:00
+Helsinki,Finland,"Helsinki, Finland",60.20787,24.99935,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,19. august,2020-08-19,DY1193,Norwegian,Helsinki - Oslo,15:15,15:45
+Oslo,Norge,"Oslo, Norway",59.914112,10.80102,Bergen,"Bergen, Norway",60.354965,5.302935,Fly,19. august,2020-08-19,SK271,SAS,Oslo - Bergen,15:30,16:20
+Oslo,Norge,"Oslo, Norway",59.914112,10.80102,Stavanger,"Stavanger, Norway",58.943598,5.714572,Fly,19. august,2020-08-19,SK4043,SAS,Oslo - Stavanger,17:15,18:05
+Oslo,Norge,"Oslo, Norway",59.914112,10.80102,Kristiansand,"Kristiansand, Norway",58.137256,7.95224,Buss,19. august,2020-08-19,Vy190,Vy,Oslo - Kristiansand,22:00,02:18
+Antalya,Tyrkia,"Antalya, Turkey",36.890217,30.715592,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,20. august,2020-08-20,DY1261,Norwegian,Antalya - Oslo,18:30,21:50
+Amsterdam,Nederland,"Amsterdam, Netherlands",52.37243,4.89973,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,22. august,2020-08-22,KL1147,KLM,Amsterdam - Oslo,14:30,16:20
+Pristina,Kosovo,"Pristina, Kosovo",42.704347,21.230935,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,22. august,2020-08-22,DY1909,Norwegian,Pristina - Oslo,15:45,19:10
+København,Danmark,"Copenhagen, Denmark",55.704438,12.502119,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,22. august,2020-08-22,SK1470,SAS,København-Oslo,19:00,20:05
+Oslo,Norge,"Oslo, Norway",59.914112,10.80102,Trondheim,"Trondheim, Norway",63.412235,10.411357,Tog,24. august,2020-08-24,SJ,SJ,Oslo-Trondheim,23:06,06:30
+Oslo,Norge,"Oslo, Norway",59.914112,10.80102,Trondheim,"Trondheim, Norway",63.412235,10.411357,Fly,26. august,2020-08-26,DY768,Norwegian,Oslo - Trondheim,19:10,20:10
+Dubai,UAE,"Dubai, United Arab Emirates",25.25817,55.30472,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,28. august,2020-08-28,EK159,Emirates,Dubai - Oslo,08:10,13:15
+Antalya,Tyrkia,"Antalya, Turkey",36.890217,30.715592,Oslo,"Oslo, Norway",59.914112,10.80102,Fly,29. august,2020-08-29,DY1261,Norwegian,Antalya - Oslo,18:30,21:50
